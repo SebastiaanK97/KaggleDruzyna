@@ -14,7 +14,6 @@ The files ... .
 
 * Python 3.10 (https://www.python.org)
 * R 4.2 (https://cran.r-project.org)
-* Docker 20.1 (https://www.docker.com)
 
 ## Authors
 
