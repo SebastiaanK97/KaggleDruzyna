@@ -17,7 +17,8 @@ The files ... .
 
 ## Authors
 
-Contributors names and contact info
+* Sebastiaan Kragting [@LinkedIn](https://linkedin.com/in/sebastiaan-kragting-76b602123)
 
-Sebastiaan Kragting 
-[@LinkedIn](https://linkedin.com/in/sebastiaan-kragting-76b602123)
+* Piotr Stachyra [@LinkedIn](https://www.linkedin.com/in/piotr-stachyra/)
+
+* Jan Androsiuk [@LinkedIn](https://www.linkedin.com/in/janandrosiuk/)
